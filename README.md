@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilya Melnikov</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=averagemelnik&label=Profile%20views&color=0e75b6&style=flat" alt="averagemelnik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=averagemelnik" alt="averagemelnik" /></a> </p>
-
 - 🌱 I’m currently learning **vhdl, CS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AverageMelnik](https://github.com/AverageMelnik)
